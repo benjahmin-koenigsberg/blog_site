@@ -1,7 +1,8 @@
 ---
-title: 'JavaScript Performance Tips'
+title: '11 Ways to Avoid Burnout as a Software Developer'
 date: 'May 4, 2021'
-excerpt: 'We will look at 10 simple tips and tricks to increase the speed of your code when writing JS'
+excerpt: '11 Ways to Avoid Burnout as a Software Developer
+Know When to Take a Break.'
 cover_image: '/images/posts/img1.jpg'
 category: 'JavaScript'
 author: 'John Doe'

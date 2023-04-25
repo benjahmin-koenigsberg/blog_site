@@ -9,6 +9,7 @@ export default function CategoryLabel({ children }) {
     Python: "green",
     PHP: "purple",
     Ruby: "red",
+    Design: 'pink'
   };
 
   return (
