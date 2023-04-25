@@ -14,7 +14,7 @@ export default (req, res) => {
     const files = fs.readdirSync(path.join("posts"));
 
     posts = files.map((filename) => {
-     // const slug = filename.replace(".md", "");
+     const slug = filename.replace(".md", "");
 
       const markdownWithMeta = fs.readFileSync(
         path.join("posts", filename),
@@ -25,6 +25,7 @@ export default (req, res) => {
 
       return {
         frontmatter,
+        slug,
       };
     });
   }
@@ -35,6 +36,6 @@ export default (req, res) => {
       excerpt.toLowerCase().indexOf(req.query.q) != -1 ||
       category.toLowerCase().indexOf(req.query.q) != -1
   )
-  
-  res.status(200).json(JSON.stringify({ results }));
+
+  res.status(200).json({ results });
 };
