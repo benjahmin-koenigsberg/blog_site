@@ -3,25 +3,24 @@
 import Head from "next/head";
 import Header from "./Header"
 
-const Layout = ({ title, keywords, description, children }) => {
+export default function Layout({ title, keywords, description, children }) {
   return (
     <div>
       <Head>
         <title>{title}</title>
-        <meta name="keywords" content={keywords} />
-        <meta name="description" content={description} />
-        <link rel="icon" href="/favicon.ico" />
+        <meta name='keywords' content={keywords} />
+        <meta name='description' content={description} />
+        <link rel='icon' href='/favicon.ico' />
       </Head>
+
       <Header />
-      <main className="container mx-auto my-7" >{children}</main>
+      <main className='container mx-auto my-7'>{children}</main>
     </div>
-  );
-};
+  )
+}
 
 Layout.defaultProps = {
     title: "Welcome to blog_site",
-    keywords: "development, coding, vegan",
+    keywords: "personal development, coding and veganism",
     description: "The best blog site about web dev and veganism"
 }
-
-export default Layout;
