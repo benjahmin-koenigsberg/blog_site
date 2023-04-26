@@ -4,7 +4,7 @@ date: 'September 28th, 2021'
 excerpt: 'The Roots of Our Destruction of Nature (Fully Revised and Updated)'
 cover_image: '/images/posts/an-unnatural-order.jpg'
 category: 'Veganism'
-author: 'Edward M. Hollaowell and John J. Ratey'
+author: 'Jim Mason'
 author_image: '/images/posts/jim-mason.jpg'
 ---
 
