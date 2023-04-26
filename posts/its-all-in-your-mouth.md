@@ -5,7 +5,7 @@ excerpt: 'Biological Dentistry and the Surprising Impact of Oral Health on Whole
 cover_image: '/images/posts/its-all-in-your-mouth.jpg'
 category: 'Health'
 author: 'Dominik Nischwitz'
-author_image: '/images/posts/domninik.jpeg'
+author_image: "/images/posts/dominik.jpeg"
 ---
 
 ## Publisher's Summary
