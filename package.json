@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "cache-posts": "node scripts/cache.js"
+    "cache-posts": "node scripts/cache.js",
+    "prepare": "husky install"
   },
   "dependencies": {
     "@types/node": "18.16.0",
@@ -25,6 +26,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.14",
+    "husky": "^8.0.3",
     "postcss": "^8.4.23",
     "tailwindcss": "^3.3.1"
   }
