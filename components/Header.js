@@ -9,13 +9,13 @@ const Header = () => {
         <Link legacyBehavior href="/">
           <a className="flex md:w-1/5 title-font font-medium items-center md:justify-start mb-4 md:mb-0">
             <Image src="/images/logo2.png" width={40} height={40} alt="logo" />
-            <span className="ml-3 text-xl">conscious_code</span>
+            <span className="ml-3 text-xl">conscious readz</span>
           </a>
         </Link>
         <nav className="flex flex-wrap md:w-4/5 items-center justify-end text-base md:ml-auto">
           <Link legacyBehavior href="/blog">
             <a className="mx-5 cursor-pointer uppercase hover:text-indigo-300">
-              Blog
+              Books
             </a>
           </Link>
           <Link legacyBehavior href="/about">

@@ -37,7 +37,7 @@ export default function Search() {
                 setSearchTerm(e.target.value);
                 console.log(e.target.value);
               }}
-              placeholder="Search Posts..."
+              placeholder="Search books..."
             />
             <FaSearch className="absolute top-0 right-0 text-black mt-3 mr-4" />
           </form>
