@@ -2,6 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+  font-family: 'Poppins',
+    sans-serif;
+}
+
+
 p {
   margin: 15px 0;
   line-height: 1.8;
@@ -52,5 +60,3 @@ ol {
 .bg-red-600 {
   background-color: #a70b34;
 }
-
-
