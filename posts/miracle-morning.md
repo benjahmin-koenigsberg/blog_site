@@ -1,7 +1,7 @@
 ---
 title: 'The Miracle Morning'
-date: 'April 21, 2021'
-excerpt: 'The Not-So-Obvious Secret Guaranteed to Transform Your Life - Before 8AM'
+date: 'December 30, 2012'
+excerpt: 'The Not So Obvious Secret Guaranteed to Transform Your Life Before 8AM'
 cover_image: '/images/posts/miracle-morning.jpg'
 category: 'Entrepreneurialism'
 author: 'Hal Erod'

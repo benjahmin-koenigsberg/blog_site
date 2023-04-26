@@ -1,6 +1,6 @@
 ---
 title: 'Never Binge Again'
-date: 'August 3rd 2019'
+date: 'August 3rd, 2019'
 excerpt: 'Reprogram Yourself to Think like a Permanently Thin Person. Stop Overeating and Binge Eating and Stick to the Food Plan of Your Choice!'
 cover_image: '/images/posts/never-binge-again.jpg'
 category: 'Health'

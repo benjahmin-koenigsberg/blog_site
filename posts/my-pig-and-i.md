@@ -1,6 +1,6 @@
 ---
-title: 'Me, My Pig, and I:'
-date: 'June 14th 2019'
+title: 'Me, My Pig, and I'
+date: 'June 14th, 2019'
 excerpt: 'My Life Battling My Inner Food Demon'
 cover_image: '/images/posts/my-pig-and-i.jpg'
 category: 'Health'

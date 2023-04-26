@@ -1,7 +1,7 @@
 ---
 title: 'What to Say When You Talk to Your Self'
-date: 'April 21, 2021'
-excerpt: ' An Introduction to Carnism, 10th Anniversary Edition'
+date: 'May 18th, 2021'
+excerpt: 'An Introduction to Carnism, 10th Anniversary Edition'
 cover_image: '/images/posts/what-to-say.jpg'
 category: 'Relationship'
 author: 'Shad Helmstetter PhD'

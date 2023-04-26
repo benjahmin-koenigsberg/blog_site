@@ -1,6 +1,6 @@
 ---
 title: 'Skip the Line'
-date: 'June 14th 2019'
+date: 'June 14th, 2019'
 excerpt: 'The 10,000 Experiments Rule and Other Surprising Advice for Reaching Your Goals'
 cover_image: '/images/posts/skip-the-line.jpg'
 category: 'Entrepreneurialism'

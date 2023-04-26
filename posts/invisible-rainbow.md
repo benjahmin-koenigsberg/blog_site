@@ -1,5 +1,5 @@
 ---
-title: 'The Invisible Rainbow:'
+title: 'The Invisible Rainbow'
 date: 'August 13, 2021'
 excerpt: 'A History of Electricity and Life'
 cover_image: '/images/posts/invisible-rainbow.jpg'

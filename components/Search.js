@@ -35,7 +35,6 @@ export default function Search() {
               value={searchTerm}
               onChange={(e) => {
                 setSearchTerm(e.target.value);
-                console.log(e.target.value);
               }}
               placeholder="Search books..."
             />

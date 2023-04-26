@@ -1,10 +1,10 @@
 ---
 title: 'ADHD 2.0'
 date: 'January 12, 2021'
-excerpt: 'New Science and Essential Strategies for Thriving with Distraction - from Childhood Through Adulthoodadhd'
+excerpt: 'New Science and Essential Strategies for Thriving with Distraction from Childhood Through Adulthoodadhd'
 cover_image: '/images/posts/adhd-2.0.jpg'
 category: 'Health'
-author: 'Edward M. Hollaowell and John J. Ratey'
+author: 'Edward M. Hollaowell & John J. Ratey'
 author_image: '/images/posts/edward-hollowell.jpg'
 ---
 

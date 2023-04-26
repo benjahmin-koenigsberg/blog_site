@@ -1,6 +1,6 @@
 ---
 title: 'Cancer and the New Biology of Water'
-date: 'September 26th 2019'
+date: 'September 26th, 2019'
 excerpt: 'Why the War on Cancer Has Failed and What That Means for More Effective Prevention and Treatment'
 cover_image: '/images/posts/cancer-biology-water.jpg'
 category: 'Health'

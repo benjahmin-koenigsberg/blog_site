@@ -1,7 +1,7 @@
 ---
 title: 'Why We Love Dogs, Eat Pigs, and Wear Cows:'
-date: 'April 21, 2021'
-excerpt: ' An Introduction to Carnism, 10th Anniversary Edition'
+date: 'August 1, 2020'
+excerpt: 'An Introduction to Carnism, 10th Anniversary Edition'
 cover_image: '/images/posts/why-we-love-dogs.jpg'
 category: 'Veganism'
 author: 'Melanie Joy PhD'

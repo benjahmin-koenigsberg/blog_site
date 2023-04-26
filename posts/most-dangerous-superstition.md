@@ -1,7 +1,7 @@
 ---
 title: 'Most Dangerous Superstition'
 date: 'January 12, 2021'
-excerpt: 'New Science and Essential Strategies for Thriving with Distraction - from Childhood Through Adulthoodadhd'
+excerpt: 'New Science and Essential Strategies for Thriving with Distraction from Childhood Through Adulthoodadhd'
 cover_image: '/images/posts/most-dangerous-superstition.jpg'
 category: 'Voluntaryism'
 author: 'Larken Rose'

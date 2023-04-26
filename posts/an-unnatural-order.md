@@ -1,6 +1,6 @@
 ---
 title: 'An Unnatural Order'
-date: 'January 12, 2021'
+date: 'September 28th, 2021'
 excerpt: 'The Roots of Our Destruction of Nature (Fully Revised and Updated)'
 cover_image: '/images/posts/an-unnatural-order.jpg'
 category: 'Veganism'
