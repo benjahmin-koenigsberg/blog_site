@@ -69,6 +69,6 @@ This site can be used to aggregate your own collection of books, blogs, articles
 
 ## Get in touch
 
-www.benjahminkoenigsberg.com
-https://www.linkedin.com/in/benjamin-koenigsberg/
-benjahmin.lakin@gmail.com
+* www.benjahminkoenigsberg.com
+* https://www.linkedin.com/in/benjamin-koenigsberg/
+* benjahmin.lakin@gmail.com
