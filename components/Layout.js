@@ -22,7 +22,7 @@ export default function Layout({ title, keywords, description, children }) {
 }
 
 Layout.defaultProps = {
-    title: "Welcome to conscious readz",
-    keywords: "personal development, coding and veganism",
-    description: "The best blog site about web dev and veganism"
-}
+  title: "Welcome to conscious readz",
+  keywords: "veganism, health, entrepreneurialism, relationships",
+  description: "An extraordinary collection of books!",
+};
